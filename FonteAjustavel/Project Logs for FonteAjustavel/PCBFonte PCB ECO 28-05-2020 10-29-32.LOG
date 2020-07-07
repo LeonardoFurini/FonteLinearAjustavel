@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C1 Old Footprint=CAP_RAD_D5X11POL New Footprint=cap_rad_d6.3X11POL
+Change Component Footprint: Designator=C3 Old Footprint=CAP_RAD_D5X11POL New Footprint=cap_rad_d6.3X11POL
+Change Component Footprint: Designator=C7 Old Footprint=cap_rad_d8X11POL New Footprint=cap_rad_d10X12.5POL
+Added Room: Name=EsquematicoFonte

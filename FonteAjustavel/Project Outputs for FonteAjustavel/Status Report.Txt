@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [FonteAjustavel.PrjPCB]
+   Generated File[PCBFonte.TXT]
+   Generated File[PCBFonte.LDP]
+   Generated File[PCBFonte.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 17:19:35 On 02/06/2020

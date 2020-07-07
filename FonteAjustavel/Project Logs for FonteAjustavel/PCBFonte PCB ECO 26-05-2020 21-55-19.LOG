@@ -1,0 +1,10 @@
+Added Component: Designator=U1(LM7805)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=+5 Pin=U1-3
+Added Member To Class: ClassName=EsquematicoFonte Member=Component H? Hole
+Added Member To Class: ClassName=EsquematicoFonte Member=Component H? Hole
+Added Member To Class: ClassName=EsquematicoFonte Member=Component H? Hole
+Added Member To Class: ClassName=EsquematicoFonte Member=Component U1 LM7805
+Added Room: Name=EsquematicoFonte

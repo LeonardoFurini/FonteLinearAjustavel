@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=D? NewDesignator=D6
+Change Component Designator: OldDesignator=H? NewDesignator=H1
+Change Component Designator: OldDesignator=H? NewDesignator=H2
+Change Component Designator: OldDesignator=H? NewDesignator=H3
+Change Component Designator: OldDesignator=H? NewDesignator=H4
+Change Component Designator: OldDesignator=P? NewDesignator=P4
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Added Member To Class: ClassName=EsquematicoFonte Member=Component H2 Hole
+Added Member To Class: ClassName=EsquematicoFonte Member=Component H3 Hole
+Added Member To Class: ClassName=EsquematicoFonte Member=Component H4 Hole
+Added Room: Name=EsquematicoFonte

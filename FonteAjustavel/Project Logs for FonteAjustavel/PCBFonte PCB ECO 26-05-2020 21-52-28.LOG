@@ -1,0 +1,37 @@
+Change Component Footprint: Designator=C7 Old Footprint=CAP_RAD_D6.3X11POL New Footprint=cap_rad_d8X11POL
+Added Component: Designator=C?(cap_rad_d6.3X11POL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D?(DIODE-SIGNAL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P?(KRE-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(AXIAL-0.4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+25 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=+25 Pin=D?-2
+Added Pin To Net: NetName=NetC6_2 Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=+25 Pin=R?-2
+Change Net Name : Old Net Name=+25 New Net Name=+24
+Added Member To Class: ClassName=EsquematicoFonte Member=Component C? 220uF
+Added Member To Class: ClassName=EsquematicoFonte Member=Component D? 1N4749A
+Added Member To Class: ClassName=EsquematicoFonte Member=Component H? Hole
+Added Member To Class: ClassName=EsquematicoFonte Member=Component H? Hole
+Added Member To Class: ClassName=EsquematicoFonte Member=Component H? Hole
+Added Member To Class: ClassName=EsquematicoFonte Member=Component P? Saída
+Added Member To Class: ClassName=EsquematicoFonte Member=Component R? 2k
+Added Room: Name=EsquematicoFonte

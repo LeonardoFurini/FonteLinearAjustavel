@@ -1,0 +1,5 @@
+Change Component Comment : Designator=R14 Old Comment=Resistor New Comment=3k9
+Added Pin To Net: NetName=NetC5_2 Pin=D2-2
+Added Pin To Net: NetName=NetC5_2 Pin=R9-1
+Added Member To Class: ClassName=EsquematicoFonte Member=Component U1 LM7805
+Added Room: Name=EsquematicoFonte

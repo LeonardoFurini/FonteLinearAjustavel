@@ -1,0 +1,10 @@
+Added Component: Designator=P?(KRE-3)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=P?-2
+Added Pin To Net: NetName=NetC6_2 Pin=P?-3
+Added Pin To Net: NetName=NetP?_1 Pin=P?-1
+Added Pin To Net: NetName=NetP?_1 Pin=Q2-3
+Added Pin To Net: NetName=NetP?_1 Pin=R6-1
+Added Net: Name=NetP?_1
+Added Member To Class: ClassName=EsquematicoFonte Member=Component P? Header 3
+Added Room: Name=EsquematicoFonte
